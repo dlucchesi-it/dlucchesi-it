@@ -6,6 +6,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/dlucchesi-it/Win11-Vulnerability-Management)**
 
+## 👾 Malware Analysis
+- **[Analysis of the First Malware to Attack a Power Grid](https://www.academia.edu/72848177/Analysis_of_the_First_Malware_to_Attack_a_Power_Grid)**
+  
 <hr/>
 
 ## 🤳 Connect With Me
